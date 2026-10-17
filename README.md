@@ -26,7 +26,7 @@ without the command line:
 | Game | Platform | Server project |
 |---|---|---|
 | Theme Park (EA, 2012) | Android | [Theme-park-EA-Server](https://github.com/AriCuteGirl/Theme-park-EA-Server) |
-| Surgeon Simulator 2 | PC | coming later |
+| Surgeon Simulator 2 (1.5.1 co-op) | PC (Steam) | [SurgeonSim2-Private-Server](https://github.com/AriCuteGirl/SurgeonSim2-Private-Server) |
 
 You need your own copy of the game. Server Manager doesn't include any game files.
 
