@@ -5,7 +5,7 @@
 <p align="center">A desktop app that sets up and manages private servers of revived games.<br>
 Linux and Windows. Free.</p>
 
-<p align="center"><a href="https://github.com/AriCuteGirl/Server-Manager-Releases/releases/latest"><b>⬇ Download the newest version</b></a></p>
+<p align="center"><a href="https://github.com/AriCuteGirl/Server-Manager-GUI/releases/latest"><b>⬇ Download the newest version</b></a></p>
 
 ---
 
@@ -32,7 +32,7 @@ You need your own copy of the game. Server Manager doesn't include any game file
 
 ## Download
 
-Go to [Releases](https://github.com/AriCuteGirl/Server-Manager-Releases/releases/latest) and pick one:
+Go to [Releases](https://github.com/AriCuteGirl/Server-Manager-GUI/releases/latest) and pick one:
 
 | File | For |
 |---|---|
@@ -82,7 +82,7 @@ sha256sum -c SHA256SUMS.txt --ignore-missing
 
 ## Problems or ideas?
 
-Open an [issue](https://github.com/AriCuteGirl/Server-Manager-Releases/issues).
+Open an [issue](https://github.com/AriCuteGirl/Server-Manager-GUI/issues).
 
 ---
 
