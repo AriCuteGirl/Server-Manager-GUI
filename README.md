@@ -20,6 +20,9 @@ without the command line:
 - **Manage:** status, start / stop / restart, live log, players (change money,
   tickets, level), settings, promo codes, backups, and moving to another server.
 - Dark and light theme.
+- **Add Server:** choose a supported game and start its setup wizard, even with no existing servers.
+
+The **Add unpublished game** custom-folder import is under development and will be listed here after a tested desktop release.
 
 ## Games
 
@@ -27,6 +30,7 @@ without the command line:
 |---|---|---|
 | Theme Park (EA, 2012) | Android | [Theme-park-EA-Server](https://github.com/AriCuteGirl/Theme-park-EA-Server) |
 | Surgeon Simulator 2 (1.5.1 co-op) | PC (Steam) | [SurgeonSim2-Private-Server](https://github.com/AriCuteGirl/SurgeonSim2-Private-Server) |
+| Dobyvatel (2019) | Android | [Dobyvatel Revival](https://github.com/AriCuteGirl/Dobyvatel-Revival) |
 
 You need your own copy of the game. Server Manager doesn't include any game files.
 
